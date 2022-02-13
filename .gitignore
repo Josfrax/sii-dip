@@ -1,0 +1,11 @@
+# Environment
+/env
+.env.dev
+
+# Drivers
+chromedriver
+chromedriver*
+
+# Data
+/data
+
